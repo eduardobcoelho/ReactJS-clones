@@ -10,6 +10,7 @@
 - **createMuiTheme**: função para criar o tema;
 - **MakeStyles**: para criar classes de estilo;
 - **AppBar**: componente usado para criar a barra superior;
+- **Drawer**: barra lateral;
 
 ## Anotações (ReactJS)
 

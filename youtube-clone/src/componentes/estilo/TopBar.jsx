@@ -20,6 +20,7 @@ const useStyles = makeStyles((theme) => ({
   },
   appBar: {
     boxShadow: "none",
+    zIndex: theme.zIndex.drawer + 1,
   },
   ytbLogo: {
     height: "24px",
