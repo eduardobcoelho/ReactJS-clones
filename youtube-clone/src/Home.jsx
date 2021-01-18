@@ -6,6 +6,7 @@ import TopBar from "./componentes/estilo/TopBar";
 const useStyles = makeStyles((theme) => ({
   root: {
     height: "100vh",
+    background: "#F5F5F5",
   },
 }));
 

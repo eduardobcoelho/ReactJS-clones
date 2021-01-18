@@ -3,7 +3,7 @@ import { ThemeProvider, createMuiTheme } from "@material-ui/core";
 
 export default (props) => {
   const theme = createMuiTheme({
-    spacing: 1,
+    spacing: 4,
     palette: {
       primary: {
         main: "#f44336",
